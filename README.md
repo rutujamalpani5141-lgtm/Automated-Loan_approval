@@ -14,13 +14,13 @@ The application is built using **Python, Flask, Scikit-learn, Joblib, HTML5, and
 
 ## 🚀 Live Demo
 
-🔗 **Live Application:** https://github.com/rutujamalpani5141-lgtm/Automated-Loan_approval.git
+🔗 **Live Application:** https://automated-loan-approval.onrender.com
 
 > 
 
 ## 📂 GitHub Repository
 
-🔗 **Source Code:** https://github.com/rutujamalpani5141-lgtm
+🔗 **Source Code:** https://github.com/rutujamalpani5141-lgtm/Automated-Loan_approval.git
 
 ---
 
