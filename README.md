@@ -14,7 +14,7 @@ The application is built using **Python, Flask, Scikit-learn, Joblib, HTML5, and
 
 ## 🚀 Live Demo
 
-🔗 **Live Application:** 
+🔗 **Live Application:** https://github.com/rutujamalpani5141-lgtm/Automated-Loan_approval.git
 
 > 
 
