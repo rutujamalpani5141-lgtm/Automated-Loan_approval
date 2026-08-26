@@ -183,15 +183,9 @@ The application provides a simple form where users can enter their personal, fin
 
 After submitting the application, the trained Machine Learning model processes the entered information and displays the predicted loan approval result.
 
-> 📸 **Add your prediction-result screenshot here after testing the application.**
+> 📸 ![Prediction Result](screenshots/loan.png)
 
-Example:
 
-```markdown
-![Prediction Result](screenshots/loan.png)
-```
-
----
 
 # 🔄 How It Works
 
