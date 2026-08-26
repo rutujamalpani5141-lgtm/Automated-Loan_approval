@@ -175,16 +175,15 @@ Loan-Approval-Prediction/
 
 The application provides a simple form where users can enter their personal, financial, and loan-related information.
 
-![Loan Approval Prediction Home Page](https://github.com/user-attachments/assets/656290df-7c56-400f-a05b-393bc32a678c)
-
+![image](https://github.com/user-attachments/assets/656290df-7c56-400f-a05b-393bc32a678c)
 ---
 
 ## 🎯 Prediction Result
 
 After submitting the application, the trained Machine Learning model processes the entered information and displays the predicted loan approval result.
 
-> 📸 ![Prediction Result](screenshots/loan.png)
-C:\Users\Rutuja Malpani\OneDrive\Pictures\Screenshots
+> 📸 ![Prediction Result](loan.png)
+
 
 
 # 🔄 How It Works
