@@ -188,7 +188,7 @@ After submitting the application, the trained Machine Learning model processes t
 Example:
 
 ```markdown
-![Prediction Result](screenshots/result.png)
+![Prediction Result](screenshots/loan.png)
 ```
 
 ---
